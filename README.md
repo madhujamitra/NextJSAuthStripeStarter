@@ -1,3 +1,5 @@
+**WORK IN PROGRESS**
+
 # **React TypeScript Next.js Boilerplate**
 This project serves as a comprehensive boilerplate for building scalable and robust web applications using React, TypeScript, and Next.js. It includes integrated user authentication, Stripe payment processing (including tap payments), and database connectivity, making it an ideal starting point for a wide range of web applications.
 
